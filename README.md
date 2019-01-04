@@ -1,5 +1,5 @@
 # Maratona Data Science
-Repositório para exercícios da Maratona DataScience do Data Science Brasil 
+Repositório para exercícios da Maratona DataScience do Data Science Brasil </br>
 https://maratonas.datasciencebrazil.org 
 
 <b>Week 1 </b>  

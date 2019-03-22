@@ -15,3 +15,10 @@ Arquivos</br>
 Classes</br>
 Projetos</br>
 Variados</br>
+
+<b> Week 2 </b>
+Os exercícios e projetos da segunda semana incluem os tópicos :
+
+Analise de Dados com Python</br>
+Numpy </br>
+Pandas </br>

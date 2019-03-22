@@ -17,6 +17,7 @@ Projetos</br>
 Variados</br>
 
 <b> Week 2 </b>
+<br>
 Os exercícios e projetos da segunda semana incluem os tópicos :
 
 Analise de Dados com Python</br>
